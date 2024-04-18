@@ -1,4 +1,5 @@
-# if you don't see (env) run the line `.\env\Scripts\activate`
+# Author: CM
+# Modified: MK 8/23
 
 from selenium import webdriver
 import parse
